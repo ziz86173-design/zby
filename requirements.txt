@@ -1,2 +1,2 @@
-python-telgram-bot
+python-telegram-bot
 groq
